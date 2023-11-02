@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Сергей Сергеевич Майбродский;
+N;CHARSET=UTF-8:Майбродский;Сергей;Сергеевич;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:admin@axas.ru
+PHOTO;TYPE=JPEG:https://storage.yandexcloud.net/axas-qr/contacts/88cb08768ada48f59792974cae8e63a4.jpg
+TEL;TYPE=WORK,VOICE:79892224422
+TITLE;CHARSET=UTF-8:CEO
+ORG;CHARSET=UTF-8:AXAS
+REV:2023-06-28T07:10:41.402769Z
+END:VCARD
